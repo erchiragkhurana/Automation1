@@ -1,0 +1,6 @@
+2019-07-04 01:58:24,667 - __main__ - INFO - Information
+2019-07-04 01:58:24,730 - __main__ - WARNING - warning
+2019-07-04 01:58:55,864 - __main__ - INFO - Information
+2019-07-04 01:58:55,864 - __main__ - WARNING - warning
+2019-07-05 00:06:41,608 - __main__ - INFO - Information
+2019-07-05 00:06:41,608 - __main__ - WARNING - warning

@@ -1,0 +1,5 @@
+1. pytest --alluredir C:\Users\chirag\PycharmProjects\Automation1\Reports_Allure
+2. Go to Command line or windows shell then type the below command
+allure generate C:\Users\chirag\PycharmProjects\Automation1\Reports_Allure
+#you need to give path where xmla reports are placed it will convert xml reports to html reports and then it will create a folder
+allure-report and from there copy the path of html file and paste it in firefox browser
